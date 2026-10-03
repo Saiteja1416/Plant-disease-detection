@@ -48,17 +48,12 @@ The trained model achieved:
 - Batch image monitoring
 - Grad-CAM explainability
 
-## Project Team
+## Author
 
-1. M. Saiteja – 23EG102B25
-2. S. Sainath – 23EG102B43
-3. A. Vinith – 24EG502B15
-4. S. Bhargava – 24EG502B22
+**Sai Teja**  
+B.Tech – Electrical and Electronics Engineering
 
-**Department:** EEE  
-**University:** Anurag University  
-**Project Guide:** T. Dinesh  
-**Academic Year:** 2026–27
+GitHub: [Saiteja1416](https://github.com/Saiteja1416)
 
 ## Repository Contents
 
